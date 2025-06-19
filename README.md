@@ -1,7 +1,7 @@
 # DP-Long-term-optimal-scheduling-of-reservoirs
-Application of dynamic programming algorithms to long-term optimal scheduling of reservoirs
-
 采用动态规划算法进行互补系统长期优化调度，互补系统包括水电、风电、光电，调度目标为系统发电量最大
+
+Application of dynamic programming algorithms to long-term optimal scheduling of reservoirs
 
 Dynamic planning algorithms are used for long-term optimal scheduling of complementary systems, which include hydropower, wind power, and photovoltaic power, and the scheduling objective is to maximize the system's power output
 
